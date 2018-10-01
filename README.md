@@ -14,3 +14,10 @@ This project is a re-build of the existing Papa's Shoe Horns website with the ma
 > Incomplete
 
 Currently in the research and design phase.
+
+## Project Overview
+
+The current [site](www.papashoehorns.com) is a simple, and somewhat unappealing wordpress site that I wanted to modernize and hopefully implement Shopify to eliminate the need to purchase through PayPal. I want to showcase the unique backstory of the brand and streamline the entire site into less pages, leading to less clicks overall.
+
+## Project Design
+

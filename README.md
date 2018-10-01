@@ -17,7 +17,12 @@ Currently in the research and design phase.
 
 ## Project Overview
 
-The current [site](https://www.papashoehorns.com) is a simple, and somewhat unappealing wordpress site that I wanted to modernize and hopefully implement Shopify to eliminate the need to purchase through PayPal. I want to showcase the unique backstory of the brand and streamline the entire site into less pages, leading to less clicks to navigate through the site.
+The current [site](www.papashoehorns.com) is a simple, and somewhat unappealing wordpress site that I wanted to modernize and hopefully implement Shopify to eliminate the need to purchase through PayPal. I want to showcase the unique backstory of the brand and streamline the entire site into less pages, leading to less clicks overall.
 
 ## Project Design
+### Initial Process
 
+Usually one of the first things I do is create some rough layout sketches to place elements and get a feel for the user interaction.
+\
+\
+![initial wireframe](https://github.com/bgascon/papa_shoe_horns/blob/master/images/rough_wireframe.jpg)

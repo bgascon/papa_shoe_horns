@@ -31,6 +31,7 @@ Usually one of the first things I do is create some rough layout sketches to pla
 After a rough layout, I've been working on a more refined wireframe layout in Adobe XD.
 \
 \
+### Detailed Wireframes
 All layouts started with a full-page height header with the logo, and a tagline\
 Mobile View:\
 ![mobile](https://github.com/bgascon/papa_shoe_horns/blob/master/images/mobile.png)
@@ -43,3 +44,5 @@ Tablet View:\
 Desktop View:\
 An example of the layout of a product page\
 ![desktop](https://github.com/bgascon/papa_shoe_horns/blob/master/images/desktop.png)
+
+### Project Elements

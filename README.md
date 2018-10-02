@@ -29,7 +29,7 @@ Usually one of the first things I do is create some rough layout sketches to pla
 \
 \
 ### Detailed Wireframes
-After a rough layout, I've been working on a more refined wireframe layout in Adobe XD.
+After a rough layout, I put together a more refined wireframe layout in Adobe XD.
 \
 All layouts started with a full-page height header with the logo, and a tagline\
 Mobile View:\

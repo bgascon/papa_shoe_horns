@@ -22,7 +22,7 @@ The current [site](www.papashoehorns.com) is a simple, and somewhat unappealing 
 ## Project Design
 ### Initial Process
 
-Usually one of the first things I do is create some rough layout sketches to place elements and get a feel for the user interaction.
+One of the first things I do is create some rough layout sketches to place elements and get a feel for the user interaction.
 \
 \
 ![initial wireframe](https://github.com/bgascon/papa_shoe_horns/blob/master/images/rough_wireframe.jpg)
@@ -45,3 +45,5 @@ An example of the layout of a product page\
 ![desktop](https://github.com/bgascon/papa_shoe_horns/blob/master/images/desktop.png)
 
 ### Project Elements
+1. Fullscreen header photo
+2. Parallax photo effect on 'what is a shoehorn' section background

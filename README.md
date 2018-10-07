@@ -27,7 +27,6 @@ One of the first things I do is create some rough layout sketches to place eleme
 \
 ![initial wireframe](https://github.com/bgascon/papa_shoe_horns/blob/master/images/rough_wireframe.png)
 \
-\
 ### Detailed Wireframes
 After a rough layout, I put together a more refined wireframe layout in Adobe XD.
 \

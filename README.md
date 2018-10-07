@@ -25,7 +25,7 @@ The current [site](www.papashoehorns.com) is a simple, and somewhat unappealing 
 One of the first things I do is create some rough layout sketches to place elements and get a feel for the user interaction.
 \
 \
-![initial wireframe](https://github.com/bgascon/papa_shoe_horns/blob/master/images/rough_wireframe.jpg)
+![initial wireframe](https://github.com/bgascon/papa_shoe_horns/blob/master/images/rough_wireframe.png)
 \
 \
 ### Detailed Wireframes

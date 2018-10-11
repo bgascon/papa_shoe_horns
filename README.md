@@ -47,3 +47,4 @@ An example of the layout of a product page\
 1. Fullscreen header photo
 2. Parallax photo effect on 'what is a shoehorn' section background
 3. Sticky nav menu - sticks to the top of the page as you scroll downward
+4. 
